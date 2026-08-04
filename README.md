@@ -1,4 +1,5 @@
-## Hey :)
+# Hey
+:)
 
 # 💫 About Me:
 I’m currently torturing myself with Blender Geometry Node to GLSL translation
